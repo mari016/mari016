@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+Me chamo Mariana Gabrieli
+Sou estudante do Alura, da escola Laura de Mello
+Tenho 16 anos
 <!--
 **mari016/mari016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
